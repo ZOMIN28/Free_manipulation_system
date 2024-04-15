@@ -69,3 +69,12 @@ from manipulation import manipulate
 manipulate(original_path, algorithm, dev, reference_path, reference)
 ```
 
+### Acknowledgements
+https://github.com/clovaai/stargan-v2
+
+https://github.com/imlixinyang/HiSD
+
+https://github.com/Tengfei-Wang/HFGI
+
+https://github.com/neuralchen/SimSwap
+
