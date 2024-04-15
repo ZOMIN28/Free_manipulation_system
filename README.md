@@ -42,23 +42,23 @@ running `run.bat`.
 
 `StarGANv2`: 
 
-![starganv2](C:\Users\50925\Desktop\Free_manipulation_system\images\starganv2.png)
+![starganv2](images/starganv2.png)
 
 
 
 `HiSD`: 
 
-![HiSD](C:\Users\50925\Desktop\Free_manipulation_system\images\HiSD.png)
+![HiSD](images/HiSD.png)
 
 
 
-![HiSD2](C:\Users\50925\Desktop\Free_manipulation_system\images\HiSD2.png)
+![HiSD2](images/HiSD2.png)
 
 
 
 `SimSwap:`
 
-![simswap](C:\Users\50925\Desktop\Free_manipulation_system\images\simswap.png)
+![simswap](images/simswap.png)
 
 
 
