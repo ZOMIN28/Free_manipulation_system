@@ -12,27 +12,18 @@ Install the required dependency packages. Given in `requirements.txt.`
 
 ##### Pretrained models
 
-`StarGANv2`: 
-
-https://github.com/clovaai/stargan-v2
-
+[StarGANv2](https://github.com/clovaai/stargan-v2).
 ```
 bash download.sh celeba-hq-dataset
 bash download.sh pretrained-network-celeba-hq
 bash download.sh wing
 ```
 
-`HiSD`: 
+[HiSD](https://github.com/imlixinyang/HiSD).  Put it in `Free_manipulation_system\HiSD\checkpoints`
 
-https://github.com/imlixinyang/HiSD.  Put it in `Free_manipulation_system\HiSD\checkpoints`
+[HFGI](https://github.com/Tengfei-Wang/HFGI). Put it in `Free_manipulation_system\HFGI\checkpoint`
 
-`HFGI`:
-
-https://github.com/Tengfei-Wang/HFGI. Put it in `Free_manipulation_system\HFGI\checkpoint`
-
-`SimSwap:`
-
-The pretrained model of `SimSwap` and `Arcface` is available in https://github.com/neuralchen/SimSwap. Put them in `DF-RAP/SimSwap/arcface_model/`  and  `DF-RAP/SimSwap/checkpoints/` .
+[SimSwap](https://github.com/neuralchen/SimSwap). Put them in `DF-RAP/SimSwap/arcface_model/`  and  `DF-RAP/SimSwap/checkpoints/` .
 
 
 
