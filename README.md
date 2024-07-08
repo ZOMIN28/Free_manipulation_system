@@ -1,7 +1,6 @@
 ## AIGIV: Artificial Intelligence Image/Video Generation and Detection
 
-![demo](images\demo.png)
-
+<img src="images\demo.png" alt="Real-world Scenarios" style="zoom:67%;" />
 
 ### preparation
 
