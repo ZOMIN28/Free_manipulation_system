@@ -1,3 +1,7 @@
+## AIGIV: Artificial Intelligence Image/Video Generation and Detection
+![demo](images\demo.png)
+
+
 ### preparation
 
 ##### Environment
@@ -30,27 +34,6 @@ bash download.sh wing
 ### Usage
 
 running `run.bat`.
-
-`StarGANv2`: 
-
-![starganv2](images/starganv2.png)
-
-
-
-`HiSD`: 
-
-![HiSD](images/HiSD.png)
-
-
-
-![HiSD2](images/HiSD2.png)
-
-
-
-`SimSwap:`
-
-![simswap](images/simswap.png)
-
 
 
 If you need to call it in your script, you can use the following：
