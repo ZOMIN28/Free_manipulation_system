@@ -1,6 +1,6 @@
 ## AIGIV: Artificial Intelligence Image/Video Generation and Detection
 
-[demo](images/demo.png)
+![demo](images\demo.png)
 
 
 ### preparation
